@@ -2,13 +2,18 @@ name: "Ellen's Website"
 output_dir: "."
 navbar:
   title: "Home"
+  left:
+    - text: "Dashboard"
+      href: dashboard.html
   right:
     - text: "About"
       href: about.html
+    - text: "Resume"
+      href: resume.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<ep385@cornell.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: http://github.com/elnpark/
 output:
   html_document:
-    theme: cerulean
+    theme: yeti

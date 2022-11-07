@@ -1,0 +1,12 @@
+---
+title: "About Me"
+output: html_document
+---
+
+Hello! I am a second year Master of Public Health Candidate at Columbia University's Mailman School of Public Health, studying Environmental Health Sciences with a Certificate in Applied Biostatistics and Public Health Data Science. 
+
+I graduated from Cornell University in 2021 with a Bachelor of Science degree in Environmental Sustainability Sciences and minors in Business, Global Health, Development Sociology, Climate Change, and Health Equity.
+
+I am particularly interested in exploring the interdisciplinary nature of public health. Through my education, work experiences, and research opportunities, I am striving to incorporate data and research to public health through regenerative approaches that may mitigate health hazards and achieve sustainable solutions.
+
+If you have any questions and want to connect, please feel free to email me at ep385@cornell.edu!

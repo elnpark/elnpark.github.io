@@ -1,0 +1,70 @@
+---
+title: "Resume"
+---
+
+
+### Education
+
+**Columbia University** <div style="text-align: right"> *New York, NY* </div>
+
+Master of Public Health: Department of Environmental Health with an Applied Biostatistics and Public Health Data Science Certificate
+
+- GPA: 3.97
+- Expected May 2023
+
+**Cornell University** <div style="text-align: right"> *Ithaca, NY* </div>
+
+Bachelor of Science: Environmental Sustainability Sciences
+
+Business, Development Sociology, Global Health, Health Equity, Climate Change Minors
+
+- Magna cum laude
+- Dean's List: Fall 2018, Spring 2019, Spring 2020, Fall 2020, Spring 2021
+- GPA: 3.77
+- May 2021
+
+
+### Career History
+
+**Substance Abuse Prevention Specialist Graduate Intern**
+Fordham University <div style="text-align: right"> *August 2022 - Present* </div> 
+
+- Helping educate Fordham University students on a harm reduction approach to alcohol and other drugs, so that they can integrate strategies to reduce the negative consequences with alcohol and/or drug use and make healthy and safe decisions
+-	Offering small interactive group counseling with students on the effects of risky decision-making surrounding alcohol 
+
+**Student Research Fellow**
+Eldera <div style="text-align: right"> *May 2022 - Present* </div>
+
+-	Responsible for researching and reviewing academic literature as well as data analysis
+-	Writing and publishing literature on social emotional resilience, positive cognitive effects, mitigation of loneliness, and instilling purpose in both children and older adults because of Eldera interactions
+
+
+**Public Health Journalist**
+New York Amsterdam News <div style="text-align: right"> *May 2022 - Present* </div>
+
+-	Researching and communicating with professionals in their fields for interviews
+-	Writing and editing articles related to public health within the Black community of New York
+
+### Leadership
+
+**Alpha Phi Omega - Gamma Chapter**
+Pledge Team Co-Assistant, Director of Pledging <div style="text-align: right"> *May 2020 - May 2021* </div>
+-	Delivered a comprehensive 7-week new member education to initiate 90+ students into the Alpha Phi Omega brotherhood
+-	Navigated effective recruitment and retention strategies with due to online learning as a result of the COVID-19 pandemic
+
+**BEE 3299: Sustainable Development**
+Undergraduate Teaching Assistant, Head Teaching Assistant <div style="text-align: right"> *January 2020 - May 2021* </div>
+-	Helped transform the teaching assistant tasks and responsibilities of the course to become more efficient and effective
+-	Taught teaching assistants in providing comprehensive feedback to drive personal learning and skill development
+
+**MEDLIFE - Cornell University Chapter**
+President <div style="text-align: right"> *November 2020 - January 2021* </div>
+-	Was the point of contact with MEDLIFE Nationals, overseeing responsibilities of the executive board and setting goals 
+-	Served as liaison between Cornell MEDLIFE with student organizations, highlighting intersectional health care problems
+
+### Skills
+-	Technical: Microsoft Office, Google Suite, Data Analysis, R, SAS
+-	Languages: English (fluent), Korean (advanced), French (intermediate), Spanish (intermediate)
+
+
+Click here to return to the [main](index.html) page.
